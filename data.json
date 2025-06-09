@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "company": {
+      "name": "Acme Corp"
+    },
+    "address": {
+      "city": "New York"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "987-654-3210",
+    "company": {
+      "name": "Tech Solutions"
+    },
+    "address": {
+      "city": "San Francisco"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "phone": "555-123-4567",
+    "company": {
+      "name": "Innovatech"
+    },
+    "address": {
+      "city": "Seattle"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bob Williams",
+    "email": "bob@example.com",
+    "phone": "222-333-4444",
+    "company": {
+      "name": "NextGen Inc"
+    },
+    "address": {
+      "city": "Austin"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Emma Brown",
+    "email": "emma@example.com",
+    "phone": "666-777-8888",
+    "company": {
+      "name": "AlphaTech"
+    },
+    "address": {
+      "city": "Chicago"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Michael Lee",
+    "email": "michael@example.com",
+    "phone": "111-222-3333",
+    "company": {
+      "name": "BlueOcean"
+    },
+    "address": {
+      "city": "Boston"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sophia Davis",
+    "email": "sophia@example.com",
+    "phone": "444-555-6666",
+    "company": {
+      "name": "GreenSoft"
+    },
+    "address": {
+      "city": "Denver"
+    }
+  },
+  {
+    "id": 8,
+    "name": "David Wilson",
+    "email": "david@example.com",
+    "phone": "777-888-9999",
+    "company": {
+      "name": "SkyNetics"
+    },
+    "address": {
+      "city": "Miami"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Olivia Martinez",
+    "email": "olivia@example.com",
+    "phone": "333-444-5555",
+    "company": {
+      "name": "PixelWave"
+    },
+    "address": {
+      "city": "Los Angeles"
+    }
+  },
+  {
+    "id": 10,
+    "name": "William Clark",
+    "email": "william@example.com",
+    "phone": "999-000-1111",
+    "company": {
+      "name": "TechNova"
+    },
+    "address": {
+      "city": "Houston"
+    }
+  }
+]
+
